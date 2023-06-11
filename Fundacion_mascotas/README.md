@@ -1,1 +1,1 @@
-ESte proyecto trata sobre una fundación ficticia de mascotas, donde se pueden administrar los animales que se encuentran en la fundacion, ademas guarda las solicitudes de posibles adopciones o donaciones. Está desarrollado en PHP, HTML y CSS, ademas tiene los principios de las PWA.
+Este proyecto trata sobre una fundación ficticia de mascotas, donde se pueden administrar los animales que se encuentran en la fundación, ademas guarda las solicitudes de posibles adopciones o donaciones. Está desarrollado en PHP, HTML y CSS, ademas tiene los principios de las PWA.
