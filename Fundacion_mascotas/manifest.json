@@ -1,0 +1,64 @@
+{
+    "name": "Fundacion Nube",
+    "short_name": "Nube",
+    "description": "Este es un realizada para el curso de FullStack intermedio, en la unidad de front y backend",
+    "background_color": "#FFFFFF",
+    "theme-color": "#2D2C3C",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-CO",
+    "icons":[
+        {
+            "src": "./img/logo/icon1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo/icon512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo/icon384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo/icon256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo/icon192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo/icon128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo/icon96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo/icon64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo/icon32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/logo/icon16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        }
+    ]
+}
